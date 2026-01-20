@@ -1,9 +1,8 @@
 # causality-aware-retriever
 
+<img width="4193" height="2122" alt="causal_retrieval" src="https://github.com/user-attachments/assets/0126c7f8-412d-4e23-abfd-52fbda635315" />
 
-<p align="center">
-      <img src="causal_retrieval.png" alt="Causal Retrieval Overview" width="600"/>
-</p>
+
 
 ## Getting Started
 
